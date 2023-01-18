@@ -3,3 +3,5 @@
 Hello, Class,
 
 Please add your one sentence introduction below:
+
+Adrian: Hi
